@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #071029, #0b1c3c);
+  color: #E6EEF8;
+  padding: 2vh 2vw;
+  box-sizing: border-box;
+}
+
+.wrap {
+  width: 80vw;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 1.5vh 1.5vw;
+  border-radius: 1rem;
+  margin-bottom: 2vh;
+  box-shadow: 0 0 2vh rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+}
+
+#music_name {
+  text-align: center;
+  font-size: 2.5vw;
+  font-weight: bold;
+  margin-bottom: 1vh;
+  color: #FFD166;
+}
